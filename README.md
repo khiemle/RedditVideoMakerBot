@@ -111,3 +111,5 @@ Cyteon (cyteon) - https://github.com/cyteon
 ## More steps set up
 /opt/homebrew/opt/python@3.12/bin/python3.12 -m venv venv
 source venv/bin/activate
+
+create file videos.json in /video_creation/data/videos.json with content "[]"
